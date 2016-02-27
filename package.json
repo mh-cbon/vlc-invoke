@@ -1,0 +1,15 @@
+{
+  "name": "@mh-cbon/vlc-invoke",
+  "version": "1.0.0",
+  "description": "Ease vlc invokation accross multiple platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "windows-no-runnable": "0.0.6"
+  }
+}
